@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-I'm a passionate **Full Stack Developer** and tech enthusiast from India 🇮🇳. I love building scalable web apps, solving complex problems, and continuously exploring new tech. I'm currently pursuing B.Tech in Computer Science and exploring the depths of software engineering.
+I'm a passionate **Full Stack Developer** and tech enthusiast from India 🇮🇳. I love building scalable web apps, solving complex problems, and continuously exploring new tech. I'm currently pursuing B.Tech in Computer Science and Engineering and exploring the depths of software engineering.
 
 ---
 
@@ -58,6 +58,7 @@ I'm a passionate **Full Stack Developer** and tech enthusiast from India 🇮�
 
 ---
 
+<!---
 ## 📫 How to reach me
 
 - Email: [devrajsinhjethwa24@gmail.com](mailto:devrajsinhjethwa24@gmail.com)
@@ -65,4 +66,5 @@ I'm a passionate **Full Stack Developer** and tech enthusiast from India 🇮�
 
 ---
 
+--->
 ### Thanks for visiting my profile! Let’s connect and build something awesome together 💻✨
