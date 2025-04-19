@@ -1,11 +1,10 @@
-```markdown
 <h1 align="center">Hi there, I'm Devrajsinh Jethwa 👋</h1>
 <h3 align="center">aka <strong>bytexplorerr</strong> — exploring the world of code byte by byte 🚀</h3>
 
 ---
 
 ## 🌐 Portfolio Website
-🔗 [https://yourportfolio.com](https://yourportfolio.com) *(Replace with your actual portfolio link)*
+🔗 [https://byteplorer.vercel.app](https://byteplorer.vercel.app)
 
 ---
 
@@ -61,11 +60,9 @@ I'm a passionate **Full Stack Developer** and tech enthusiast from India 🇮�
 
 ## 📫 How to reach me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [devrajsinhjethwa24@gmail.com](mailto:devrajsinhjethwa24@gmail.com)
 - LinkedIn: [linkedin.com/in/devrajsinh-jethwa](https://www.linkedin.com/in/devrajsinh-jethwa)
 
 ---
 
 ### Thanks for visiting my profile! Let’s connect and build something awesome together 💻✨
-```
-
