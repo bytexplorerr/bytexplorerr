@@ -49,14 +49,6 @@ I'm a passionate **Full Stack Developer** and tech enthusiast from India 🇮�
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bytexplorerr&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytexplorerr&layout=compact&theme=radical"/>
-</p>
-
----
 
 <!---
 ## 📫 How to reach me
