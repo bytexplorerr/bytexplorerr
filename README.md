@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Portfolio Website
-🔗 [Portfolio](https://portfolio-iota-jade-67.vercel.app/)
+🔗 <a href="https://portfolio-iota-jade-67.vercel.app/" target="_blank">Portfolio</a>
 
 ---
 
