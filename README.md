@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Portfolio Website
-🔗 [Portfolio]([https://byteplorer.vercel.app](https://portfolio-iota-jade-67.vercel.app/))
+🔗 [Portfolio]([[https://byteplorer.vercel.app](https://byteplorer.vercel.app)](https://portfolio-iota-jade-67.vercel.app/))
 
 ---
 
